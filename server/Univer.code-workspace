@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../MySoft/NodeJS"
+		},
+		{
+			"path": "../../../../../MySoft/NodeJS/LearnJS/Electron"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "msedge",
+				"name": "http://localhost:3000/api/login",
+				"request": "launch",
+				"url": "http://localhost:3000/api/login"
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+    "cpus":[
+        {
+            "Name": "Core i3-7600k",
+            "Brand": "INTEL",
+            "Socket": "LGA1151",
+            "Cores": 4,
+            "Threads": 4,
+            "CoreClock": 3.8,
+            "TurboBoost": 4.2
+        },
+        {
+            "Name": "Core i7-7600",
+            "Brand": "INTEL",
+            "Socket": "LGA1151",
+            "Cores": 4,
+            "Threads": 4,
+            "CoreClock": 3.8,
+            "TurboBoost": 4.2
+        },
+        {
+            "Name": "Core i9-9900k",
+            "Brand": "INTEL",
+            "Socket": "LGA1151",
+            "Cores": 4,
+            "Threads": 4,
+            "CoreClock": 3.8,
+            "TurboBoost": 4.2
+        }
+    ],
+    "GPUs":[
+        {
+            "Name":"GTX 1660super", 
+            "Brand":"NVIDIA", 
+            "Interface":"PCI-x16", 
+            "CoreClock":"4", 
+            "TurboBoost":"5", 
+            "MemoryType":"gddr6", 
+            "MemorySize":"6", 
+            "BusWidth":"192", 
+            "Technology":"16"
+        },
+        {
+            "Name":"GTX 1660", 
+            "Brand":"NVIDIA", 
+            "Interface":"PCI-x16", 
+            "CoreClock":"4", 
+            "TurboBoost":"5", 
+            "MemoryType":"gddr6", 
+            "MemorySize":"6", 
+            "BusWidth":"192", 
+            "Technology":"16"
+        }
+    ]
+}
