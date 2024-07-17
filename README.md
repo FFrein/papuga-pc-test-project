@@ -1,5 +1,7 @@
 # papuga-pc-test-project
 
+клиент : https://github.com/FFrein/papuga-pc-client-test-project
+
 В этом проекте была релазиована: 
 
  -- авторизация с помощью webtokens
